@@ -2,9 +2,9 @@
 
 A documented starting point for releasing one stateless Docker application to AWS ECS Fargate.
 
-**[Explore the product](https://chrismakriel-technologies.amusedgoby2048.chatgpt.site/)**
+**[Explore the product](https://mgcjlabs.com/)**
 
-This public repository introduces the paid kit and includes a free local tool check. The complete source kit is delivered separately after purchase. Checkout is being prepared; this preview does not offer a paid download.
+This public repository introduces the paid kit and includes a free local tool check. The complete source kit costs **$149 USD once** and is delivered through a private download page after payment confirmation. Checkout is handled by Stripe. This repository contains the free preview only; the paid ZIP is not public.
 
 ## What the paid kit includes
 
@@ -31,8 +31,11 @@ This check reports installed command versions and whether Docker responds. It do
 
 ## About
 
-Created by Christopher Jones at MGCJ Labs, drawing on a background in DevOps for state lotteries.
+Created by Christopher Jones at MGCJ Labs, drawing on a background in DevOps for state lotteries. Christopher is AWS Certified CloudOps Engineer – Associate (SOA-C03).
 
-**[Website and purchase information](https://chrismakriel-technologies.amusedgoby2048.chatgpt.site/)** · **[Creator's GitHub profile](https://github.com/chrisjonessr127)**
+Contact: **mgcjlabs@gmail.com**. The paid kit includes 90 days of written support for documented setup and reproducible defects, and a 14-calendar-day refund window; see the website's purchase terms.
+
+**[Website and purchase information](https://mgcjlabs.com/)** · **[Christopher on LinkedIn](https://www.linkedin.com/in/christopher-jones-sr)** · **[Creator's GitHub profile](https://github.com/chrisjonessr127)**
 
 The MIT license in this repository applies only to these public preview files. It does not license the separately sold DevOps Release Kit. MGCJ Labs is independent of AWS, GitHub, Docker, and HashiCorp.
+
